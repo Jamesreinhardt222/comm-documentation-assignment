@@ -18,3 +18,11 @@ In this section you will be able to do x by y.
 {:toc}
 
 ---
+
+## Heading 1
+
+Important information
+
+## Heading 2
+
+Also important information
