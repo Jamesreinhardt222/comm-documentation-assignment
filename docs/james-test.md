@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TestMarkdown James
-nav_order: 2
+nav_order: 22
 ---
 
 # Task 2
@@ -36,4 +36,32 @@ This is also a famous quote.  It's from  [Abraham Lincoln](https://www.brainyquo
 
 ## Animal Picture
 
-Also important information
+This is a giraffe
+
+![giraffe](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/giraffe.jpg?raw=true)
+
+## table
+
+Text | Simplified Text
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Due to the fact that |	because
+In the event that	| Insert your answer here
+At this point in time |	insert your answer here
+Obtain |	insert your answer here
+Subsequent |	insert your answer here
+In the vicinity of |	insert your answer here
+
+### conciseness helps web readers
+
+Our Web site has made available many of the things you can use for making a decision on the best dentist.
+
+`Our Web site has made available many of the things you can use for making a decision on the best dentist.`
+
+
+### code blocks make me happy
+```javascript
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
+**I am so done**
