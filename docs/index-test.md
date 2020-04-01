@@ -4,6 +4,14 @@ title: Glossary
 nav_order: 99
 ---
 
+# Glossary
+
+* * *
+
+**Browser:** a program on your computer that lets you navigate the internet.
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
