@@ -14,55 +14,50 @@ Learn all the basics you need to wow your students with your online prowress.
 
 
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 ## Why Slack?
 
-Slack is the one of the top online platform for professional correspondence and has distinct advantages over email communication. 
+Slack is the one of the top online platform for professional correspondence and has distinct advantages over email communication.
+-
 
 
 ### Instant Messaging
+{: .text-gamma }
 
 Users can send direct messages to other members of their slack channel with our convenient messaging feature. You even have the option for voice and video calls.
 
 ### Multiple Channels
+{: .text-gamma }
 
 Your project can have separate channels to help organize discussions around distinct topics.  This is really beneficial for keeping track of information.
 
 ### Threads
+{: .text-gamma }
 
-Everyone can
+Everyone can refer to previous posts and add comments to them in the form of threads.
 
-### Multimedia
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
 
 ## App Integration
+{: .text-gamma }
+There are countless features that can be integrated in slack to make it the most convenient workplace experience possible, entirely online!
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
 
 ### Professional-level security.
+{: .text-gamma }
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Your data is important, especially when it involves your company.  Slack is trusted by companies all over the world and maintains its strong reputation through top-notch security features.
+{: .text-gamma }
 
-### Contributing
+## Who is this guide for?
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+We created this guide for individuals who are new to online platforms.  Slack's layout is not entirely intuitive for some people, and we hope to make navigating the site and all its features as painless as possible!
 
-#### Thank you to the contributors of Just the Docs!
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
 
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
