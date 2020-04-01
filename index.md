@@ -24,7 +24,6 @@ Learn all the basics you need to wow your students with your online prowress.
 ## Why Slack?
 
 Slack is the one of the top online platform for professional correspondence and has distinct advantages over email communication.
--
 
 
 ### Instant Messaging
