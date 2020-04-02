@@ -46,7 +46,7 @@ You will be redirected to the workspace setup form.  It will start with a field 
 
 This will be the name of your workspace.
 
-1[workspace name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/creating_a_workspace_company_name.png?raw=true)
+![workspace name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/creating_a_workspace_company_name.png?raw=true)
 
 6. Enter a description about your project then click on "next".
 
