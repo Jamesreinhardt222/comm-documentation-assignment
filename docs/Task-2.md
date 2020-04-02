@@ -23,13 +23,13 @@ The following instructions will show you how to set up your workspace. If at any
 
 1. go to clack.com/create.  
 
-You will immediately be presented with a prompt asking for your email.
+  You will immediately be presented with a prompt asking for your email.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
 
 2. Enter your email address and click confirm.
 
-When you do this, an email notification will be sent to you.
+  When you do this, an email notification will be sent to you.
 
 ![check your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/check_your_email.png?raw=true)
 
@@ -39,12 +39,12 @@ When you do this, an email notification will be sent to you.
 ![confirmation email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirmation_email.png?raw=true)
 
 4. Click on the link provided in the email to verify your account 
-You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
+  You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
 
 
 5. Fill out the input field with a creative name and click next.
 
-This will be the name of your workspace.
+  This will be the name of your workspace.
 
 ![workspace name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/creating_a_workspace_company_name.png?raw=true)
 
@@ -54,7 +54,7 @@ This will be the name of your workspace.
 
 7. Input the emails of your team members and click on "next."
 
-The prompt will ask for the email addresses of other members in your team, you can choose to input them or skip this step instead.  To input an email, enter the address into the text field and click on ADD teammate.
+  The prompt will ask for the email addresses of other members in your team, you can choose to input them or skip this step instead.  To input an email, enter the address into the text field and click on ADD teammate.
 
 ![who do you email the most](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/who_do_you_email_most.png?raw=true)
 
