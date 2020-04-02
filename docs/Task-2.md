@@ -29,29 +29,37 @@ You will immediately be presented with a prompt asking for your email.
 
 2. Enter your email address and click confirm.
 
-An email notification will be sent to you.
+When you do this, an email notification will be sent to you.
 
+![check your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/check_your_email.png?raw=true)
 
 
 3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
-Click on the link provided in the email to verify your account and you will be redirected to anew page.
+![confirmation email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirmation_email.png?raw=true)
+
+4. Click on the link provided in the email to verify your account 
+You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
 
 
-4. Fill out the input field with a creative name and click next.
+5. Fill out the input field with a creative name and click next.
 
 This will be the name of your workspace.
 
+1[workspace name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/creating_a_workspace_company_name.png?raw=true)
 
-5. Enter a description about your project.
+6. Enter a description about your project then click on "next".
 
-The prompt will ask for a description of what you’ll be working on.  Fill that out, then click on “next.”
+![project name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/project_name.png?raw=true)
 
-6. Input the emails of your team members and click on "next."
+7. Input the emails of your team members and click on "next."
 
-The prompt will ask for the email addresses of other members in your team, you can choose to input them or hit next.  To input an email, enter the address into the text field and click on ADD teammate.
+The prompt will ask for the email addresses of other members in your team, you can choose to input them or skip this step instead.  To input an email, enter the address into the text field and click on ADD teammate.
 
-7. Your channel is ready, click on the button labeled “See your channel in Slack” to go to your workspace’s landing page.
+![who do you email the most?] (https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/who_do_you_email_most.png?raw=true)
+
+8. Your channel is ready, click on the button labeled “See your channel in Slack” to go to your workspace’s landing page.
+![see your channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/see_channel_in_slack.png?raw=true)
 
 
 * * *
