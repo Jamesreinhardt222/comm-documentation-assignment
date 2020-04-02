@@ -38,7 +38,8 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![confirmation email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirmation_email.png?raw=true)
 
-4. Click on the link provided in the email to verify your account 
+4. Click on the link provided in the email to verify your account. 
+  
   You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
 
 
