@@ -4,7 +4,7 @@ title: Creating a Slack workspace
 nav_order: 3
 ---
 
-# Setting up your Slack Workspace
+# Creating a Slack Workspace
 {: .no_toc }
 
 In this section you will learn how to get started with slack and set up your first workspace.
@@ -62,6 +62,8 @@ The following instructions will show you how to set up your workspace. If at any
 8. Your channel is ready, click on the button labeled “See your channel in Slack” to go to your workspace’s landing page.
 ![see your channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/see_channel_in_slack.png?raw=true)
 
+You've created your workspace, time for some finishing touches.
+
 
 * * *
 
@@ -70,22 +72,28 @@ The following instructions will show you how to set up your workspace. If at any
 
 Once you have created your first page, you are ready to set up all the options you need.
 
-When you first access your slack workspace, you’ll automatically be directed to the “Get Started” section.  If you leave that section, you can access it again by clicking “Get Started” in the sidebar.  This section will quickly go over how to finalize the set-up process.
+When you first access your slack workspace, you’ll automatically be directed to the “Get Started” section.  If you leave that section, you can access it again by clicking “Get Started” in the left sidebar.  This section will quickly go over how to finalize the set-up process.
 
 1. Click on the down arrow on the right side of the “Choose a greeting” row.
 
+![get started](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/welcome_to_slack.png?raw=true)
+
 This will display options for customizing the greeting that other users see when they visit your new workspace. Slack provides a default greeting, but you can edit it to your preferences by clicking on the arrows on the right-hand side of the white text fields.
 
-2. Back on the "get started" menu, click on "finish setup."
+2. Head back to the "get started" menu and click on "finish setup."
+![finish setup](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/finish_setup.png?raw=true)
 
 3. Confirm your workspace's name and URL, then click "next".
+![confirm workspace URL](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirm_workspace_url.png?raw=true)
 
 4.Enter the email addresses of individuals you want to invite to your workspace.
+![add people to your slack workspace](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/add_people_to_your_slack_workspace.png?raw=true)
 
 You can choose to skip this step.
 
 5. Click on the green "finish" button.
 
-Congratulations! You successfully made a Slack workspace.
+
+Congratulations! Your workspace is ready to go.
 
 
