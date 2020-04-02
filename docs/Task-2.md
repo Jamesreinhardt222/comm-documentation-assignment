@@ -25,10 +25,12 @@ The following instructions will show you how to set up your workspace. If at any
 
 You will immediately be presented with a prompt asking for your email.
 
+[enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
 
 2. Enter your email address and click confirm.
 
 An email notification will be sent to you.
+
 
 
 3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
