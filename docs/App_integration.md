@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Integrating External Apps
+title: Integrating Zoom
 nav_order: 6
 ---
 
-# How to invite other people to your workspace.
+# How to add extra features with external apps.
 {: .no_toc }
 
 In this section you will learn how to get started with slack and set up your first workspace.
