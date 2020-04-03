@@ -7,8 +7,7 @@ nav_order: 5
 # How to invite other people to your workspace.
 {: .no_toc }
 
-In this section you will learn how to get started with slack and set up your first workspace.
-Your workspace will contain different channels that each focus on a particular topic.  The workspace acts as the overall platform for team members co-ordinate with each other and provide timely information.
+In this section you will learn how to get invite people to your workspace.
 
 {: .fs-6 .fw-300 }
 
@@ -16,14 +15,15 @@ Your workspace will contain different channels that each focus on a particular t
 
 ## Getting started
 
-The following instructions will show you how to set up your workspace. If at any time you make a mistake or want to go back, simply hit the backwards arrow on the top right of your browser window to go to the previous page. Everything you do here can be edited later, so don't worry if you aren't 100% decided on a name or who you want in your channel yet.
+The following instructions will show you how to invite your students and TAs to your workspace.
+If there is any problem inviting people to your workspace, please check out the troubleshooting page.
 
 
 * * *
 
-1. go to slack.com/create.  
+1. Go to your workspace.  
 
-  You will immediately be presented with a prompt asking for your email.
+  In your workspace, you will find a list of people 
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
 
