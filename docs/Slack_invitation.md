@@ -25,7 +25,7 @@ If there is any problem inviting people to your workspace, please check out the 
 
   In your workspace, you will find a list of people 
 
-![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv1.png?raw=true)
 
 2. Enter your email address and click confirm.
 
