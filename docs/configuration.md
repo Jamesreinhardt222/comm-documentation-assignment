@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Creating a Slack Account
 nav_order: 2
 ---
 
-# Configuration
+# Creating a Slack Account
 {: .no_toc }
 
 

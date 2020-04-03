@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating a Slack workspace
+title: Creating a Slack Workspace
 nav_order: 3
 ---
 
