@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrating Extra Features with External Apps.
+title: Integrating External Apps
 nav_order: 6
 ---
 
