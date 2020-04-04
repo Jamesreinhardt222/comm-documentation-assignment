@@ -7,7 +7,7 @@ nav_order: 3
 # Creating a Slack Workspace
 {: .no_toc }
 
-In this section you will learn how to get started with slack and set up your first workspace. 
+In this section you will learn how to get started with slack and set up your first workspace.
 Your workspace will contain different channels that each focus on a particular topic.  The workspace acts as the overall platform for team members co-ordinate with each other and provide timely information.
 
 {: .fs-6 .fw-300 }
