@@ -4,7 +4,7 @@ title: Managing Channels
 nav_order: 3
 ---
 
-# Managing Channel
+# Managing Channels
 
 This section explains how to create, rename, and delete channels in your workspace.  Channels are one of the most useful features of slack, allowing you to divide the different tasks and topics in your project into manageable sections.
 {: .no_toc }
@@ -40,22 +40,36 @@ To make a private channel, simply click the switch marked "make private."
 ## Renaming a channel
 If you are a workspace owner or admin, you can rename any of the channels in your workspace.  Other members without special priviledges can only rename channels they created themselves
 
+1. Go to the channel you’d like to rename and click on the details icon in the upper-right corner.
 
+!details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
+2.  Click on "more" to bring up a list of options.
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true)
+
+3.  Click on "rename channel."
+![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/more_options.png?raw=true)
+
+4.  Enter a new channel name and click on the :rename" button.
+![rename](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/rename.png?raw=true)
 
 ## Deleting a channel
+Deleting a channel is a fun way to clean up your workspace while also making you feel powerful.
 
-For styles that aren't defined as a variables, you may want to modify specific CSS classes. To add your own CSS overrides at the end of the cascade, edit `_sass/overrides.scss`. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
+1. Go to the channel you’d like to remove and click on the details icon in the upper-right corner.
 
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
+!details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
-#### Example
-{: .no_toc }
+2.  Click on "more" to bring up a list of options.
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true)
 
-```scss
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
+3. Select "additional options.
+![additional options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options.png?raw=true)
+
+4. Select "delete this channel."
+![delete this channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options2.png?raw=true)
+
+5. Check off the "Yes, permanently delete this channel" box, then click "Delete Channel." 
+![delete confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/deletion_confirmation.png?raw=true)
+
 ```
