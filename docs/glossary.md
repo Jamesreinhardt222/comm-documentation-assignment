@@ -32,5 +32,6 @@ The act of navigating a webpage by moving your browser's view of the page vertic
 ## Workspace
 The overall webpage devoted to a project
 
+
 ---
 ```
