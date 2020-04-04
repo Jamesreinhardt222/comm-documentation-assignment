@@ -1,22 +1,48 @@
 ---
 layout: default
-title: Integrating Zoom
+title: Integrating External Apps
 nav_order: 6
 ---
 
-# How to add extra features with external apps.
+# Adding extra features with external apps.
 {: .no_toc }
 
-In this section you will learn how to get started with slack and set up your first workspace.
-Your workspace will contain different channels that each focus on a particular topic.  The workspace acts as the overall platform for team members co-ordinate with each other and provide timely information.
+In this section you will learn how to incorporate various applications in your slack workspace to customize it for your project's needs.  Several applications can be intregated in your workspace at no additional cost.
 
 {: .fs-6 .fw-300 }
 
 * * *
 
-## Getting started
+## Finding Apps
+All of the apps you can use are easily accessible from your mainpage.
 
-The following instructions will show you how to set up your workspace. If at any time you make a mistake or want to go back, simply hit the backwards arrow on the top right of your browser window to go to the previous page. Everything you do here can be edited later, so don't worry if you aren't 100% decided on a name or who you want in your channel yet.
+1. First, click on "Apps" in your left sidebar.
+This will open a channel displaying all of the apps. 
+
+#
+
+
+## Managing an app
+If you want to find out more information about an app, or decide you don't want a particular feature installed on your workspace, slack makes it very easy to manage your apps.
+
+### Navigating to an app's channel
+1. Click on apps in the left sidebar,
+
+2. To find out more information about an app you already installed, click on its title.
+The app's channel will open, and it will show common commands you can enter
+(Note: apps you installed will appear in your sidebar, and you simply click on them directly to navigate to this channel.
+
+### Deleting an app
+
+1. Navigate to the application's channel.
+2. Click on the "i" icon in the top right corner to bring up the details menu.
+3.  Click on "More," then click "settings" in the resulting pop-up menu.
+
+This will bring you to a new page with information on the app.
+
+4. croll down until you see a red "Remove App" button.  Click on the button.
+
+5.Click "Remove App" on the confirmation pop-up.
 
 
 * * *
