@@ -87,9 +87,11 @@ This will display options for customizing the greeting that other users see when
 ![confirm workspace URL](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirm_workspace_url.png?raw=true)
 
 4.Enter the email addresses of individuals you want to invite to your workspace.
+You can choose to skip this step.
+
 ![add people to your slack workspace](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/add_people_to_your_slack_workspace.png?raw=true)
 
-You can choose to skip this step.
+
 
 5. Click on the green "finish" button.
 
