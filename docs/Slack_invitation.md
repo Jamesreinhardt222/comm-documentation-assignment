@@ -23,7 +23,7 @@ If there is any problem inviting people to your workspace, please check out the 
 
 1. Go to your workspace.  
 
-  In your workspace, you will find a list of people 
+  In your workspace, you will find on the right bottom section named "Direct Messages". Click 
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv1.png?raw=true)
 
