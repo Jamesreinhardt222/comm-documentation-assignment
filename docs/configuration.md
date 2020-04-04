@@ -4,84 +4,48 @@ title: Creating a Slack Account
 nav_order: 2
 ---
 
-# Creating a Slack Account
+# How to create slack account.
 {: .no_toc }
 
+In this section you will learn how to get invite people to your workspace.
 
-All you need is your favourite browser and a solid internet connection.  You can either use slack directly in your browser or dowload the mobile or desktop app.{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
+* * *
 
-1. TOC
-{:toc}
+## Getting started
 
----
+The following page will show you how to invite your students, TAs and others to your workspace.
+If there is any problem inviting people to your workspace, please check out the troubleshooting page.
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+* * *
 
-## Site logo
+1. Go to your workspace.  
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+  In your workspace, you will find on the right bottom section named "Direct Messages". Click "invite people".
 
-## Search
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv1.png?raw=true)
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+2. Get the invite link to your workspace.
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
+  When you click "invite people", you will see a pop up window like this. Click "Share invite link".
 
-```
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv2.png?raw=true)
 
-## Aux links
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
+3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
-## Heading anchor links
+  By clicking "Copy" button, you will have your workspace invitation link copied on your computer. You can paste this link 
+  on the BCIT learning hub or pass it to set reps. Note that there will be number of days before the link expires.
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv3.png?raw=true)
 
-## Footer content
+4. Click on the green "done" button.
 
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
+Congratulations! Now you can wait for people to join your workspace.
 
-## Color scheme
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv4.png?raw=true)
 
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+* * *
 
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
