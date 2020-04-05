@@ -25,7 +25,8 @@ All of the apps you can use are easily accessible from your main page.
 1.First, click on "Apps" in your left sidebar.
 This will open a channel displaying all of the apps available for Slack.
 
-![apps sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_sidebar.png?raw=true)
+![apps sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_sidebar.png?raw=true | height = 200)
+
 
 2.Select the app you would like by clicking its "add" button.
 ![apps_options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_options.png?raw=true)
