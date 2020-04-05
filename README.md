@@ -19,16 +19,16 @@ Due to COVID-19 situation, we had to discuss our ideas remotely. As the situatio
 
 Thanks to our Java and Python professor Chris Thompson, we were already using Slack as main method of communication. So, we were familiar with the program. Also, we created our own workspace to examine extra features ourselves so we can write a better guide.
 
-#### Using Version Control with JetBrains WebStorm.
+### Using Version Control with JetBrains WebStorm.
 
 We collaborated remotely using WebStorm from JetBrains. WebStorm can create a project by cloning the Git features, that makes it easier to push and pull from a repository.
 
-#### Using a Theme
+### Using a Theme
 
 For this project, Jekyll’s open source theme for documentation with built-in search was used. We forked this repository and made changes to create our documentation. More information about this open source theme can be found :
 https://github.com/pmarsceill/just-the-docs
 
-#### Learning Outcome of This Project.
+### Learning Outcome of This Project.
 
 Although we were familiar with Slack, there were a lot of features that we have not used it before. As we learned from trying it ourselves, we realized the importance of chronological instructions are key factor upon creating a guide. Also, rather than explaining in all words, effective instruction delivered using images.
 
