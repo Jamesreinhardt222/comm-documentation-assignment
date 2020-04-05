@@ -10,7 +10,7 @@ nav_order: 2
 In this section you will learn how to get started with slack and set up your first workspace.
 Your workspace will contain different channels that each focus on a particular topic.  The workspace acts as the overall platform for team members co-ordinate with each other and provide timely information.
 
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
