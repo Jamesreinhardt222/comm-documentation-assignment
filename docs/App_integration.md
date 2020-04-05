@@ -20,6 +20,8 @@ In this section you will learn how to incorporate various applications in your s
 * * *
 
 ## Adding Apps
+{:toc}
+
 All of the apps you can use are easily accessible from your main page.
 
 1.First, click on "Apps" in your left sidebar.
@@ -73,12 +75,16 @@ In this example we used Zoom, a video-recording and conference platform.  Adding
 
 
 ## Managing an app
+{:toc}
+
 If you want to find out more information about an app, or decide you don't want a particular feature installed on your workspace, slack makes it very easy to manage your apps.
 
 * * *
 
 
 ## Navigating to an app's channel
+{:toc}
+
 If you click on an apps name in the sidebar, it wil open that app's channel, and show common commands and features for it.
 
 
