@@ -7,8 +7,8 @@ nav_order: 5
 # How to invite other people to your workspace.
 {: .no_toc }
 
-Slack allows creator of the slack workspace to invite other people to join the workspace.
-This can be done by sharing a link of a workspace that you just created.
+Slack allows the creator of the slack workspace to invite other people to join the workspace.
+This can be done by sharing a link to the workspace that you created.
 
 {: .fs-5 .fw-300 }
 
@@ -16,7 +16,7 @@ This can be done by sharing a link of a workspace that you just created.
 
 * * *
 
-1.Go to your workspace.  
+1. Go to your workspace.  
 
   In your workspace, you will find on the right bottom section named "Direct Messages". Click "invite people".
 
@@ -36,17 +36,17 @@ This can be done by sharing a link of a workspace that you just created.
 <br />
 
 
-3.Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
+3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
-  By clicking "Copy" button, you will have your workspace invitation link copied on your computer. 
-  You can share this link with with people who need to join this workspace.
+  By clicking "Copy" button, you will have a shareable workspace invitation link copied on your computer. 
+  You can share this link with others.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv3.png?raw=true)
 
 <br />
 <br />
 
-4.Click on the green "done" button.
+4. Click on the green "done" button.
 
 Congratulations! Now you can wait for people to join your workspace.
 
@@ -56,6 +56,6 @@ Congratulations! Now you can wait for people to join your workspace.
 * * *
 
 Now that you have invited your students to your slack space, you will see your students joining the workspace within few days.
-Next step is [using extra features](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/App_integration/) with integrating external app to Slack.  
+The next step is [adding extra features](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/App_integration/) by integrating external apps to Slack.  
 
 
