@@ -48,7 +48,7 @@ Your project can have separate channels to help organize discussions around dist
 Everyone can refer to previous posts and add comments to them in the form of threads.
 
 
-## App Integration
+### App Integration
 {: .text-gamma }
 There are countless features that can be integrated in slack to make it the most convenient workplace experience possible, entirely online!
 
@@ -57,9 +57,9 @@ There are countless features that can be integrated in slack to make it the most
 {: .text-gamma }
 
 Your data is important, especially when it involves your company.  Slack is trusted by companies all over the world and maintains its strong reputation through top-notch security features.
-{: .text-gamma }
 
-## Who is this guide for?
+### Who is this guide for?
+{: .text-gamma }
 
 We created this guide for individuals who are new to online platforms.  Slack's layout is not entirely intuitive for some people, and we hope to make navigating the site and all its features as painless as possible!
 
