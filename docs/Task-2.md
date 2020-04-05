@@ -33,6 +33,8 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
 
+
+
 2.Enter your email address and click confirm.
 
   When you do this, an email notification will be sent to you.
