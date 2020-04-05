@@ -21,7 +21,7 @@ This section explains how to create, rename, and delete channels in your workspa
 ---
 
 ## Creating a Channel
-Creating a channel is a fairly quick process.  You have the option of making a public channel that everyone in your workspace can access, or a private channel that can only be accessed by selected members.
+Creating a channel is a fairly quick process. You have the option of making a public channel that everyone in your workspace can access, or a private channel that can only be accessed by selected members.
 
 1.To start, click on plus sign beside the channel dropdown menu.
 
