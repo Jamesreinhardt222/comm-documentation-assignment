@@ -38,16 +38,16 @@ In this example we used Zoom, a video-recording and conference platform.  Adding
 
 Your all done!  The app will now appear in your left sidebar.
 ![zoom sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_sidebar.png?raw=trua)
-#
+
 
 ## Managing an app
 If you want to find out more information about an app, or decide you don't want a particular feature installed on your workspace, slack makes it very easy to manage your apps.
 
-### Navigating to an app's channel
+## Navigating to an app's channel
 If you click on an apps name in the sidebar, it wil open that app's channel, and show common commands and features for it.
 ![zoom chat](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_chat.png?raw=true)
 
-### Deleting an app
+## Deleting an app
 Sometimes you need a break. You can always remove an app from your workspace.
 
 1. Navigate to the application's channel.
