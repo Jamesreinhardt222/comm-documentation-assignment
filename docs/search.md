@@ -55,7 +55,6 @@ Go to troubleshooting, then Restart and Collect Net Logs
 Try visiting the Slack app again while logs are being recorded.
 Email the newly-created net log files to feedback@slack.com.
 
-* * *
 
 ## Server error
 This occurs when there is an issue on slack’s end with their servers.
