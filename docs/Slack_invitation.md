@@ -43,5 +43,8 @@ Congratulations! Now you can wait for people to join your workspace.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv4.png?raw=true)
 
+Now that you have invited your students to your slack space, you will see your students joining the workspace within few days.
+Next step is [using extra features](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/App_integration/) with integrating external app to Slack.  
+
 * * *
 
