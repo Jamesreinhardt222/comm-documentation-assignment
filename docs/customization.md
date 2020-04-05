@@ -5,6 +5,8 @@ nav_order: 3
 ---
 
 # Managing Channels
+{: .no_toc }
+
 
 This section explains how to create, rename, and delete channels in your workspace.  Channels are one of the most useful features of slack, allowing you to divide the different tasks and topics in your project into manageable sections.
 {: .no_toc }
@@ -80,4 +82,7 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 5. Check off the "Yes, permanently delete this channel" box, then click "Delete Channel." 
 ![delete confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/deletion_confirmation.png?raw=true)
 
-```
+* * *
+
+This page guided you through how to make, rename, and delete a channel. You can make channels depending on your different
+usages. Now that you have set up your workspace with channels, next step will guide you through how to [invite students.](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/Slack_invitation/)
