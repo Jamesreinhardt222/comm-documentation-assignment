@@ -25,7 +25,7 @@ other wonderful slack features that is introduced on this page.
 
   In your workspace, you will find on the right bottom section named "Direct Messages". Click "invite people".
 
-![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv1.png?raw=true)
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc1.png?raw=true)
 
 2. Get the invite link to your workspace.
 
