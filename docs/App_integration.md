@@ -62,7 +62,7 @@ In this example we used Zoom, a video-recording and conference platform.  Adding
 <br />
 <br />
 
-Your all done!  The app will now appear in your left sidebar.
+6.Your all done!  The app will now appear in your left sidebar.
 
 ![zoom sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_sidebar.png?raw=trua)
 
