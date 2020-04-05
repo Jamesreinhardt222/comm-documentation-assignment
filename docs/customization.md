@@ -13,6 +13,8 @@ This section explains how to create, rename, and delete channels in your workspa
 {: .fs-5 .fw-300 }
 
 ## Table of contents
+{: .fs-5 .fw-300 }
+
 {: .no_toc .text-delta }
 
 1. TOC
