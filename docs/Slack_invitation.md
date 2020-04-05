@@ -16,7 +16,7 @@ This can be done by sharing a link to the workspace that you created.
 
 * * *
 
-1. Go to your workspace.  
+1.Go to your workspace.  
 
   In your workspace, you will find on the right bottom section named "Direct Messages". Click "invite people".
 
@@ -36,7 +36,7 @@ This can be done by sharing a link to the workspace that you created.
 <br />
 
 
-3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
+3.Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
   By clicking "Copy" button, you will have a shareable workspace invitation link copied on your computer. 
   You can share this link with others.
@@ -46,7 +46,7 @@ This can be done by sharing a link to the workspace that you created.
 <br />
 <br />
 
-4. Click on the green "done" button.
+4.Click on the green "done" button.
 
 Congratulations! Now you can wait for people to join your workspace.
 
