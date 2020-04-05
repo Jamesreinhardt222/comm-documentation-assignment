@@ -33,7 +33,7 @@ This will open a channel displaying all of the apps available for Slack.
 2.Select the app you would like by clicking its "add" button.
 ![apps_options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_options.png?raw=true)
 
-You will be dirscted to a new page with information about the app.
+You will be directed to a new page with information about the app.
 
 
 <br />
@@ -59,8 +59,8 @@ In this example we used Zoom, a video-recording and conference platform.  Adding
 
 ![zoom allow](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zom_options.png?raw=true)
 
-</ br>
-</ br>
+<br />
+<br />
 
 Your all done!  The app will now appear in your left sidebar.
 
@@ -75,14 +75,13 @@ Your all done!  The app will now appear in your left sidebar.
 ## Managing an app
 If you want to find out more information about an app, or decide you don't want a particular feature installed on your workspace, slack makes it very easy to manage your apps.
 
-<br />
-<br />
-
 * * *
 
 
 ## Navigating to an app's channel
 If you click on an apps name in the sidebar, it wil open that app's channel, and show common commands and features for it.
+
+
 ![zoom chat](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_chat.png?raw=true)
 
 <br />
