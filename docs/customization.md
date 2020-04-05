@@ -99,7 +99,7 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 * * *
 
 ## Deleting a channel
-Deleting a channel is a fun way to clean up your workspace while also making you feel powerful.
+When a particular channel is no longer necessary, you can delete it to tidy up your workspace.
 
 1.Go to the channel you’d like to remove and click on the details icon in the upper-right corner.
 
@@ -135,4 +135,4 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 * * *
 
 This page guided you through how to make, rename, and delete a channel. You can make channels depending on your different
-usages. Now that you have set up your workspace with channels, next step will guide you through how to [invite students.](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/Slack_invitation/)
+usages. Now that you can set up your workspace with channels, the next step will show you how to [invite students.](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/Slack_invitation/)
