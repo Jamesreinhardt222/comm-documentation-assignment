@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# The BCIT Instructor's Guide to Using Slack (Working)
+# The BCIT Instructor's Guide to Using Slack (working now)
 {: .fs-9 }
 
 Learn all the basics you need to wow your students with your online prowress.
