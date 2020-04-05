@@ -107,9 +107,13 @@ Sometimes you need a break. You can always remove an app from your workspace.
 <br />
 <br />
 
-3.Click on "More," then click "settings" in the resulting pop-up menu.
+3.Then click on "More,"                                                      
 
 ![zoom details menu](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_details.png?raw=true)
+
+ click "settings" in the resulting pop-up menu.
+ <br />
+
 ![zoom settings](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_more.png?raw=true)
 
 This will bring you to a new page with information about the app.
