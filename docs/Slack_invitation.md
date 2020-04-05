@@ -19,7 +19,7 @@ In this section you will learn how to get invite people to your workspace.
 
 * * *
 
-## Getting started
+## Invite people to your workspace
 
 The following page will show you how to invite your students, TAs and others to your workspace.
 If there is any problem inviting people to your workspace, please check out the troubleshooting page.
