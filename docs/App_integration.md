@@ -19,13 +19,16 @@ In this section you will learn how to incorporate various applications in your s
 
 * * *
 
+<br />
+<br />
+
 ## Adding Apps
 All of the apps you can use are easily accessible from your main page.
 
 1.First, click on "Apps" in your left sidebar.
 This will open a channel displaying all of the apps available for Slack.
 
-![apps sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_sidebar.png?raw=true | height = 200)
+![apps sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_sidebar.png?raw=true)
 
 <br />
 <br />
@@ -62,27 +65,47 @@ In this example we used Zoom, a video-recording and conference platform.  Adding
 Your all done!  The app will now appear in your left sidebar.
 ![zoom sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_sidebar.png?raw=trua)
 
+<br />
+<br />
+
 * * *
+
 
 ## Managing an app
 If you want to find out more information about an app, or decide you don't want a particular feature installed on your workspace, slack makes it very easy to manage your apps.
 
+<br />
+<br />
+
 * * *
+
 
 ## Navigating to an app's channel
 If you click on an apps name in the sidebar, it wil open that app's channel, and show common commands and features for it.
 ![zoom chat](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_chat.png?raw=true)
+
+<br />
+<br />
 
 * * *
 
 ## Deleting an app
 Sometimes you need a break. You can always remove an app from your workspace.
 
+<br />
+<br />
+
 1. Navigate to the application's channel.
+
+<br />
+<br />
 
 2. Click on the "i" icon in the top right corner to bring up the details menu.
 
 ![zoom options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_options_icon.png?raw=true)
+
+<br />
+<br />
 
 3.  Click on "More," then click "settings" in the resulting pop-up menu.
 
@@ -91,8 +114,14 @@ Sometimes you need a break. You can always remove an app from your workspace.
 
 This will bring you to a new page with information about the app.
 
+<br />
+<br />
+
 4. Scroll down until you see a red "Remove App" button.  Click on the button.
 ![app remove](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_remove.png?raw=true)
+
+<br />
+<br />
 
 5. Click "Remove App" on the confirmation pop-up.
 ![remove confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_remove_confirmation.png?raw=true)
