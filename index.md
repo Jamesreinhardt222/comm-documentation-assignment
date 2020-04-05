@@ -72,10 +72,26 @@ Your data is important, especially when it involves your company.  Slack is trus
 
 <br />
 
-### Who is this guide for?
+## Who is this guide for?
 {: .text-gamma }
 
-We created this guide for individuals who are new to online platforms.  Slack's layout is not intuitive for some people, and we hope to make navigating the site and all its features as enjoyable as possible.
+We created this guide for individuals who are new to online platforms. A basic understanding of using the internet and navigating web browsers is all that is required. 
+<br/>
+* * *
 
+## Typographical Conventions
 
+This guide will follow the conventions below
+
+| Convention                           | TypeFace  | Examples       |   |   |
+|--------------------------------------|-----------|----------------|---|---|
+| Command line commands and user input | `Light`   | `alt`, `shift` |   |   |
+| Key terms and emphasis               | _italics_ | _Main menu_    |   |   |
+|                                      |           |                |   |  
+
+* * *
+
+# Wrapping up
+
+Slack's layout is not intuitive for some people, and we hope to make navigating the site and all its features as enjoyable as possible.
 
