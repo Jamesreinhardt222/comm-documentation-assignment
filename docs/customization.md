@@ -9,7 +9,6 @@ nav_order: 3
 
 
 This section explains how to create, rename, and delete channels in your workspace.  Channels are one of the most useful features of slack, allowing you to divide the different tasks and topics in your project into manageable sections.
-{: .no_toc }
 
 
 {: .fs-5 .fw-300 }
@@ -23,6 +22,8 @@ This section explains how to create, rename, and delete channels in your workspa
 ---
 
 ## Creating a Channel
+{:toc}
+
 Creating a channel is a fairly quick process. You have the option of making a public channel that everyone in your workspace can access, or a private channel that can only be accessed by selected members.
 
 1.To start, click on plus sign beside the channel dropdown menu.
@@ -63,6 +64,8 @@ To make a private channel, simply click the switch marked "make private."
 
 
 ## Renaming a channel
+{:toc}
+
 If you are a workspace owner or admin, you can rename any of the channels in your workspace.  Other members who lack special privileges can only rename channels they created themselves
 
 1.Go to the channel you’d like to rename and click on the details icon in the upper-right corner.
@@ -99,6 +102,8 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 * * *
 
 ## Deleting a channel
+{:toc}
+
 When a particular channel is no longer necessary, you can delete it to tidy up your workspace.
 
 1.Go to the channel you’d like to remove and click on the details icon in the upper-right corner.
