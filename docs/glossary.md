@@ -23,8 +23,8 @@ A display of user posts. On Slack, they are arranged with the most recent posts 
 
 
 ## Pop up
-A minature screen that appears with a message or button.  Often you can close them by clicking anywhere in the browser outside of the popup, but sometimes you may have to click on a specific "close" or "x" button instead.
-* * *
+A miniature screen that appears with a message or button.  Often you can close them by clicking anywhere in the browser outside of the popup, but sometimes you may have to click on a specific "close" or "x" button instead.
+
 
 ## Scrolling
 The act of navigating a webpage by moving your browser's view of the page vertically or horizontally.
