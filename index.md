@@ -14,13 +14,6 @@ permalink: /
 Learn all the basics of slack to improve your communication with your students.
 
 ---
-## Why Slack?
-{: .no_toc }
-
-
-Slack is the one of the top online platforms for professional correspondence and has distinct advantages over email communication.
-
-<br />
 
 
 ## Table of contents
@@ -28,6 +21,14 @@ Slack is the one of the top online platforms for professional correspondence and
 
 1. TOC
 {:toc}
+
+<br />
+
+## Why Slack?
+{: .no_toc }
+
+
+Slack is the one of the top online platforms for professional correspondence and has distinct advantages over email communication.
 
 <br />
 
@@ -91,7 +92,7 @@ This guide will follow the conventions below
 
 * * *
 
-# Wrapping up
+## Wrapping up
 
 Slack's layout is not intuitive for some people, and we hope to make navigating the site and all its features as enjoyable as possible.
 
