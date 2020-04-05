@@ -29,8 +29,7 @@ This guide goes over common problems you might experience when using slack and h
 - Outdated version of the slack desktop app
 - Outdated web browsers, plugins, or extensions
 - Outages or disruptions
-
--App storage malfunction or slack server errors.
+- App storage malfunction or slack server errors.
 
 
 
