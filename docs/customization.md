@@ -45,7 +45,7 @@ Creating a channel is a fairly quick process. You have the option of making a pu
 To make a private channel, simply click the switch marked "make private."
 
 
-![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png?raw=true)
+![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_private_channel.png?raw=true)
 
 
 <br />
@@ -53,7 +53,7 @@ To make a private channel, simply click the switch marked "make private."
 
 4.Click the button labelled "create" at the bottom right.
 
-![make private](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_private_channel.png)
+![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png?raw=true)
 
 
 <br />
