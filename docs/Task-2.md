@@ -20,7 +20,7 @@ Your workspace will contain different channels that each focus on a particular t
 
 * * *
 
-## Getting started
+## Creating your account
 
 The following instructions will show you how to set up your workspace. If at any time you make a mistake or want to go back, simply hit the backwards arrow on the top right of your browser window to go to the previous page. Everything you do here can be edited later, so don't worry if you aren't 100% decided on a name or who you want in your channel yet.
 
@@ -65,10 +65,12 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![who do you email the most](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/who_do_you_email_most.png?raw=true)
 
-8.Your channel is ready, click on the button labeled “See your channel in Slack” to go to your workspace’s landing page.
-![see your channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/see_channel_in_slack.png?raw=true)
+8.Your workspace is ready, click on the button labeled “See your workspace in Slack” to go to your workspace’s landing page.
 
 You've created your workspace, time for some finishing touches.
+
+![see your channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/see_channel_in_slack.png?raw=true)
+
 
 
 * * *
