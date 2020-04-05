@@ -22,20 +22,13 @@ This guide goes over common problems you might experience when using slack and h
 ---
 
 
-## Common sources of issues.
+### Common sources of issues.
 {:toc}
 
 -Antivirus software or security settings
-<br />
-
 -Outdated version of the slack desktop app
-<br />
-
 -Outdated web browsers, plugins, or extensions
-<br />
-
 -Outages or disruptions
-<br />
 
 -App storage malfunction or slack server errors.
 
