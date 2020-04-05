@@ -12,8 +12,6 @@ permalink: /
 {: .fs-9 }
 
 Learn all the basics of slack to improve your communication with students.
-{: .fs-5 .fw-300 }
-
 
 ---
 {: .fs-5 .fw-300 }
