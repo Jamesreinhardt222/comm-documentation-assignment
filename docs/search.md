@@ -64,7 +64,7 @@ If the web app is not working correctly, please try the following:
 
 - Reload Slack
 - `ctrl R` on Windows
-- `&#8984 R` on Mac;
+- `Command R` on Mac;
 
 
 ## Collect Net Logs and send them to Slack.
