@@ -63,4 +63,3 @@ We created this guide for individuals who are new to online platforms.  Slack's 
 
 
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
