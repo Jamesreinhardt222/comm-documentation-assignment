@@ -14,7 +14,7 @@ In this section you will learn how to incorporate various applications in your s
 * * *
 
 ## Adding Apps
-All of the apps you can use are easily accessible from your mainpage.
+All of the apps you can use are easily accessible from your main page.
 
 1. First, click on "Apps" in your left sidebar.
 This will open a channel displaying all of the apps available for Slack. 
