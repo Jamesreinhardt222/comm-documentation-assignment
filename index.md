@@ -18,7 +18,7 @@ Learn all the basics of slack to improve your communication with your students.
 {: .no_toc }
 
 
-Slack is the one of the top online platform for professional correspondence and has distinct advantages over email communication.
+Slack is the one of the top online platforms for professional correspondence and has distinct advantages over email communication.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -41,7 +41,7 @@ Your project can have separate channels to help organize discussions around dist
 ### Threads
 {: .text-gamma }
 
-Everyone can refer to previous posts and add comments to them in the form of threads.
+Members can refer to previous posts and add comments to them in the form of threads.
 
 
 ### App Integration
@@ -57,7 +57,7 @@ Your data is important, especially when it involves your company.  Slack is trus
 ### Who is this guide for?
 {: .text-gamma }
 
-We created this guide for individuals who are new to online platforms.  Slack's layout is not entirely intuitive for some people, and we hope to make navigating the site and all its features as painless as possible!
+We created this guide for individuals who are new to online platforms.  Slack's layout is not intuitive for some people, and we hope to make navigating the site and all its features as enjoyable as possible.
 
 
 
