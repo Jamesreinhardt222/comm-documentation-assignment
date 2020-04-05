@@ -123,9 +123,6 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 5.Check off the "Yes, permanently delete this channel" box, then click "Delete Channel." 
 ![delete confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/deletion_confirmation.png?raw=true)
 
-<br />
-<br />
-
 * * *
 
 This page guided you through how to make, rename, and delete a channel. You can make channels depending on your different
