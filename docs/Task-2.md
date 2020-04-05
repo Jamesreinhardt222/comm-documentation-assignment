@@ -21,6 +21,7 @@ Your workspace will contain different channels that each focus on a particular t
 * * *
 
 ## Creating your account
+{:toc}
 
 The following instructions will show you how to set up your workspace. If at any time you make a mistake or want to go back, simply hit the backwards arrow on the top right of your browser window to go to the previous page. Everything you do here can be edited later, so don't worry if you aren't 100% decided on a name or who you want in your channel yet.
 
@@ -104,6 +105,7 @@ You've created your workspace, time for some finishing touches.
 
 
 ## Setting up your page
+{:toc}
 
 Once you have created your first page, you are ready to set up all the options you need.
 
