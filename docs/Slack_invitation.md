@@ -48,3 +48,5 @@ Next step is [using extra features](https://jamesreinhardt222.github.io/comm-doc
 
 * * *
 
+Great! Now you have successfully integrated Zoom into your Slack workspace.
+Slack provides a lot of great features like integrating external apps to your workspace.
