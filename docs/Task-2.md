@@ -46,7 +46,8 @@ The following instructions will show you how to set up your workspace. If at any
 
 4.Click on the link provided in the email to verify your account. 
   
-  You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
+  You will be redirected to the workspace setup form.
+  It will start with a field asking for the name of your workspace.
 
 
 5.Fill out the input field with a recognizable name and click next.
