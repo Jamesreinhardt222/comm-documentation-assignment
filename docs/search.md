@@ -22,19 +22,29 @@ This guide goes over common problems you might experience when using slack and h
 ---
 
 
+## Common sources of issues.
+{:toc}
+
+-Antivirus software or security settings
+<br />
+
+-Outdated version of the slack desktop app
+<br />
+
+-Outdated web browsers, plugins, or extensions
+<br />
+
+-Outages or disruptions
+<br />
+
+-App storage malfunction or slack server errors.
+
+
+
 ## Common Errors:
 {:toc}
 
 
-
-### Common sources of issues.
-{:toc}
-
--Antivirus software or security settings
--Outdated version of the slack desktop app
--Outdated web browsers, plugins, or extensions
--Outages or disruptions
--App storage malfunction or slack server errors.
 
 ## Connectivity failure
 - Open a different webpage than Slack. If that page also doesn’t load, there may be a problem with your internet connection. 

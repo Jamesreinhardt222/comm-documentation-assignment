@@ -98,7 +98,6 @@ Sometimes you need a break. You can always remove an app from your workspace.
 1.Navigate to the application's channel.
 
 <br />
-<br />
 
 2.Click on the "i" icon in the top right corner to bring up the details menu.
 
