@@ -49,7 +49,7 @@ The following instructions will show you how to set up your workspace. If at any
   You will be redirected to the workspace setup form.  It will start with a field asking for the name of your workspace.
 
 
-5.Fill out the input field with a creative name and click next.
+5.Fill out the input field with a recognizable name and click next.
 
   This will be the name of your workspace.
 
