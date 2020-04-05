@@ -11,8 +11,6 @@ nav_order: 7
 {: .fs-5 .fw-300 }
 
 ## Table of contents
-{: .fs-5 .fw-300 }
-
 {: .no_toc .text-delta }
 
 1. TOC
