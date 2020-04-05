@@ -10,7 +10,7 @@ permalink: /
 {: .fs-9 }
 
 Learn all the basics you need to wow your students with your online prowress.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 
 ---
