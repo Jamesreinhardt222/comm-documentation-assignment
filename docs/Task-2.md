@@ -27,7 +27,7 @@ The following instructions will show you how to set up your workspace. If at any
 
 * * *
 
-1.go to slack.com/create.  
+1.go to [slack.com/create.](https://slack.com/get-started#/create).
 
   You will immediately be presented with a prompt asking for your email.
 
