@@ -9,7 +9,7 @@ permalink: /
 # Slack Guide for BCIT Instructors
 {: .fs-9 }
 
-Learn all the basics you need to wow your students with your online prowress.
+Learn all the basics of slack to improve your communication with students.
 {: .fs-5 .fw-300 }
 
 
