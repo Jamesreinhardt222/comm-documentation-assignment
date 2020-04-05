@@ -4,10 +4,10 @@ title: Creating a Slack Account
 nav_order: 2
 ---
 
-# How to create slack account. Testing
+# How to create slack account. 
 {: .no_toc }
 
-In this section you will learn how to get invite people to your workspace.
+In this section you will learn how to create a slack account.
 
 {: .fs-6 .fw-300 }
 
@@ -15,8 +15,8 @@ In this section you will learn how to get invite people to your workspace.
 
 ## Getting started
 
-The following page will show you how to invite your students, TAs and others to your workspace.
-If there is any problem inviting people to your workspace, please check out the troubleshooting page.
+The following page will guide you through how to make a slack account, so you can join, create workspaces and lots of
+other wonderful slack features that is introduced on this page.
 
 
 * * *
@@ -31,7 +31,7 @@ If there is any problem inviting people to your workspace, please check out the 
 
   When you click "invite people", you will see a pop up window like this. Click "Share invite link".
 
-![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv2.png?raw=true)
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc2.png?raw=true)
 
 
 3. Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
