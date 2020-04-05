@@ -65,7 +65,7 @@ Something may be interfering with slack’s ability to load effectively.
 ### Server error
 This occurs when there is an issue on slack’s end with their servers.
 -Reload Slack, using >ctrl R on Windows command R on a Mac &#8984;
-Go to https://my.slack.com/help/requests/new to contact slack with your concerns.
+Go to [https://my.slack.com/help/requests/new](https://slack.com/intl/en-ca/help/requests/new) to contact slack with your concerns.
 
 ### Web Page Issue
 If the web app is not working correctly, you can do the following.
