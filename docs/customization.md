@@ -9,6 +9,9 @@ nav_order: 3
 This section explains how to create, rename, and delete channels in your workspace.  Channels are one of the most useful features of slack, allowing you to divide the different tasks and topics in your project into manageable sections.
 {: .no_toc }
 
+
+{: .fs-5 .fw-300 }
+
 ## Table of contents
 {: .no_toc .text-delta }
 

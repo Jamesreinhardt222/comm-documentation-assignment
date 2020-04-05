@@ -9,7 +9,13 @@ nav_order: 6
 
 In this section you will learn how to incorporate various applications in your slack workspace to customize it for your project's needs.  Several applications can be intregated in your workspace at no additional cost.
 
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 * * *
 

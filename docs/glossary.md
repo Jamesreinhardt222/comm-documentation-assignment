@@ -7,6 +7,9 @@ nav_order: 7
 # Glossary
 {: .no_toc }
 
+
+{: .fs-5 .fw-300 }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
