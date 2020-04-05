@@ -51,7 +51,7 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 ![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
 2. Click on "more" to bring up a list of options.
-![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true | width = 250)
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true = 250x)
 
 3. Click on "rename channel."
 ![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/more_options.png?raw=true)
