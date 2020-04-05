@@ -66,6 +66,7 @@ To make a private channel, simply click the switch marked "make private."
 If you are a workspace owner or admin, you can rename any of the channels in your workspace.  Other members who lack special privileges can only rename channels they created themselves
 
 1.Go to the channel you’d like to rename and click on the details icon in the upper-right corner.
+<br />
 
 ![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
@@ -73,6 +74,8 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 <br />
 
 2.Click on "more" to bring up a list of options.
+<br />
+
 ![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel2.png?raw=true)
 
 <br />
@@ -87,6 +90,7 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 <br />
 
 4.Enter a new channel name and click on the :rename" button.
+<br />
 ![rename](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/rename.png?raw=true)
 
 <br />
@@ -118,13 +122,14 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 <br />
 
 4.Select "delete this channel."
-
+<br />
 ![delete this channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel5.png?raw=true)
 
 <br />
 <br />
 
 5.Check off the "Yes, permanently delete this channel" box, then click "Delete Channel." 
+<br />
 ![delete confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/deletion_confirmation.png?raw=true)
 
 * * *
