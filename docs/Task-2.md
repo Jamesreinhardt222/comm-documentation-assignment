@@ -33,6 +33,9 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/enter_your_email.png?raw=true)
 
+<br />
+<br />
+
 
 
 2.Enter your email address and click confirm.
@@ -42,14 +45,23 @@ The following instructions will show you how to set up your workspace. If at any
 ![check your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/check_your_email.png?raw=true)
 
 
+<br />
+<br />
+
 3.Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
 ![confirmation email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirmation_email.png?raw=true)
+
+<br />
+<br />
 
 4.Click on the link provided in the email to verify your account. 
   
   You will be redirected to the workspace setup form.
   It will start with a field asking for the name of your workspace.
+
+<br />
+<br />
 
 
 5.Fill out the input field with a recognizable name and click next.
@@ -58,9 +70,15 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![workspace name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/creating_a_workspace_company_name.png?raw=true)
 
+<br />
+<br />
+
 6.Enter a description about your project then click on "next".
 
 ![project name](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/project_name.png?raw=true)
+
+<br />
+<br />
 
 7.Input the emails of your team members and click on "next."
 
@@ -68,12 +86,18 @@ The following instructions will show you how to set up your workspace. If at any
 
 ![who do you email the most](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/who_do_you_email_most.png?raw=true)
 
+<br />
+<br />
+
+
 8.Your workspace is ready, click on the button labeled “See your workspace in Slack” to go to your workspace’s landing page.
 
 You've created your workspace, time for some finishing touches.
 
 ![see your channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/see_channel_in_slack.png?raw=true)
 
+<br />
+<br />
 
 
 * * *
@@ -91,11 +115,22 @@ When you first access your slack workspace, you’ll automatically be directed t
 
 This will display options for customizing the greeting that other users see when they visit your new workspace. Slack provides a default greeting, but you can edit it to your preferences by clicking on the arrows on the right-hand side of the white text fields.
 
+<br />
+<br />
+
 2.Head back to the "get started" menu and click on "finish setup."
 ![finish setup](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/finish_setup.png?raw=true | width = 100)
 
+<br />
+<br />
+
+
 3.Confirm your workspace's name and URL, then click "next".
 ![confirm workspace URL](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirm_workspace_url.png?raw=true)
+
+<br />
+<br />
+
 
 4.Enter the email addresses of individuals you want to invite to your workspace.
 You can choose to skip this step.
