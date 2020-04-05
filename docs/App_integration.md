@@ -96,6 +96,9 @@ If you click on an apps name in the sidebar, it wil open that app's channel, and
 * * *
 
 ## Deleting an app
+{:toc}
+
+
 Sometimes you need a break. You can always remove an app from your workspace.
 
 <br />
