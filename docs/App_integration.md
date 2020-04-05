@@ -16,24 +16,24 @@ In this section you will learn how to incorporate various applications in your s
 ## Adding Apps
 All of the apps you can use are easily accessible from your main page.
 
-1. First, click on "Apps" in your left sidebar.
+1.First, click on "Apps" in your left sidebar.
 This will open a channel displaying all of the apps available for Slack.
 
 ![apps sidebar](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_sidebar.png?raw=true)
 
-2. Select the app you would like by clicking its "add" button.
+2.Select the app you would like by clicking its "add" button.
 ![apps_options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/apps_options.png?raw=true)
 
 You will be dirscted to a new page with information about the app.
 
-3. Click on the green "Add to Slack" button.
+3.Click on the green "Add to Slack" button.
 ![zoom add to slack](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom.png?raw=true)
 
 4.Select the account option you want to use.
 In this example we used Zoom, a video-recording and conference platform.  Adding it to slack brings up two options, “Use a company account" or "Use an individual account".
 ![zoom add](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_add.png?raw=true)
 
-5. Click "allow" to let zoom access and perform actions in your workspace.
+5.Click "allow" to let zoom access and perform actions in your workspace.
 ![zoom allow](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zom_options.png?raw=true)
 
 Your all done!  The app will now appear in your left sidebar.
