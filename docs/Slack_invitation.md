@@ -7,22 +7,12 @@ nav_order: 5
 # How to invite other people to your workspace.
 {: .no_toc }
 
-In this section you will learn how to get invite people to your workspace.
+The following page will show you how to invite your students, TAs and others to your workspace.
+If there is any problem inviting people to your workspace, please check out the troubleshooting page.
+
 
 {: .fs-5 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-* * *
-
-## Invite people to your workspace
-
-The following page will show you how to invite your students, TAs and others to your workspace.
-If there is any problem inviting people to your workspace, please check out the troubleshooting page.
 
 
 * * *
