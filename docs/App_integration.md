@@ -135,4 +135,8 @@ This will bring you to a new page with information about the app.
 Great! Now you have successfully integrated Zoom into your Slack workspace.
 Slack provides a lot of great features like integrating external apps to your workspace.
 
+Read more about:
+- [Glossary](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/glossary/)
+- [Troubleshooting](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/search/) 
+
 
