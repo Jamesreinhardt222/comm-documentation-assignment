@@ -16,7 +16,7 @@ This section explains how to create, rename, and delete channels in your workspa
 ## Table of contents
 {: .no_toc .text-delta }
 
-1.TOC
+1. TOC
 {:toc}
 
 ---
