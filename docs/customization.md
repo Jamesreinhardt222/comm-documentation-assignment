@@ -20,11 +20,11 @@ This section explains how to create, rename, and delete channels in your workspa
 ## Creating a Channel
 Creating a channel is a fairly quick process.  You have the option of making a public channel that everyone in your workspace can access, or a private channel that can only be accessed by selected members.
 
-1.  To start, click on plus sign beside the channel dropdown menu.
+1.To start, click on plus sign beside the channel dropdown menu.
 
 ![channel dropdown](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel_dropdown.png?raw=true)
 
-2. Select "create a channel."
+2.Select "create a channel."
 ![create a channel]https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channel.png?raw=true)
 
 3.In the resulting pop up, enter the new channel's name and description.
@@ -34,7 +34,7 @@ Creating a channel is a fairly quick process.  You have the option of making a p
 To make a private channel, simply click the switch marked "make private."
 ![make private](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_private_channel.png)
 
-4. Click the green button labelled "create" at the bottom right.
+4.Click the green button labelled "create" at the bottom right.
 
 
 ## Renaming a channel

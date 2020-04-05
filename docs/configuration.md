@@ -21,15 +21,15 @@ other wonderful slack features that is introduced on this page.
 
 * * *
 
-1. Go to your workspace.  
+1. Go to official slack web page.
 
-  In your workspace, you will find on the right bottom section named "Direct Messages". Click "invite people".
+  In slack website, you will find "get started" link. Click the link.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc1.png?raw=true)
 
-2. Get the invite link to your workspace.
+2. Make your account
 
-  When you click "invite people", you will see a pop up window like this. Click "Share invite link".
+  Type in your email to start creating an account.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc2.png?raw=true)
 
