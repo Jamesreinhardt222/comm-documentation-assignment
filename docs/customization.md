@@ -51,7 +51,7 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 ![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
 2. Click on "more" to bring up a list of options.
-![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true =250x)
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png =250x?raw=true)
 
 3. Click on "rename channel."
 ![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/more_options.png?raw=true)
@@ -69,7 +69,7 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 ![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
 
 2. Click on "more" to bring up a list of options.
-![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true =150x)
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png =150x?raw=true)
 
 3. Select "additional options".
 ![additional options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options.png?raw=true)
