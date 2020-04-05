@@ -95,19 +95,19 @@ Sometimes you need a break. You can always remove an app from your workspace.
 <br />
 <br />
 
-1. Navigate to the application's channel.
+1.Navigate to the application's channel.
 
 <br />
 <br />
 
-2. Click on the "i" icon in the top right corner to bring up the details menu.
+2.Click on the "i" icon in the top right corner to bring up the details menu.
 
 ![zoom options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_options_icon.png?raw=true)
 
 <br />
 <br />
 
-3.  Click on "More," then click "settings" in the resulting pop-up menu.
+3.Click on "More," then click "settings" in the resulting pop-up menu.
 
 ![zoom details menu](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_details.png?raw=true)
 ![zoom settings](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_more.png?raw=true)
@@ -117,13 +117,13 @@ This will bring you to a new page with information about the app.
 <br />
 <br />
 
-4. Scroll down until you see a red "Remove App" button.  Click on the button.
+4.Scroll down until you see a red "Remove App" button.  Click on the button.
 ![app remove](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_remove.png?raw=true)
 
 <br />
 <br />
 
-5. Click "Remove App" on the confirmation pop-up.
+5.Click "Remove App" on the confirmation pop-up.
 ![remove confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_remove_confirmation.png?raw=true)
 
 
