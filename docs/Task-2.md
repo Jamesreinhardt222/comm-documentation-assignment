@@ -12,6 +12,12 @@ Your workspace will contain different channels that each focus on a particular t
 
 {: .fs-6 .fw-300 }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 * * *
 
 ## Getting started
