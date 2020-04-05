@@ -6,12 +6,12 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Slack Guide for BCIT Instructors
+# BCIT Slack Guide
 {: .no_toc }
 
 {: .fs-6 }
 
-Learn all the basics of slack to improve your communication with students.
+Learn all the basics of slack to improve your communication with your students.
 
 ---
 ## Why Slack?

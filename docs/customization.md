@@ -39,6 +39,8 @@ To make a private channel, simply click the switch marked "make private."
 
 4.Click the green button labelled "create" at the bottom right.
 
+* * *
+
 
 ## Renaming a channel
 If you are a workspace owner or admin, you can rename any of the channels in your workspace.  Other members without special priviledges can only rename channels they created themselves
@@ -55,6 +57,8 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 
 4.Enter a new channel name and click on the :rename" button.
 ![rename](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/rename.png?raw=true)
+
+* * *
 
 ## Deleting a channel
 Deleting a channel is a fun way to clean up your workspace while also making you feel powerful.
