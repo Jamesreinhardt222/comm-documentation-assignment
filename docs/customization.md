@@ -42,16 +42,18 @@ Creating a channel is a fairly quick process. You have the option of making a pu
 
 3.In the resulting pop up, enter the new channel's name and description.
 
+To make a private channel, simply click the switch marked "make private."
+
+
 ![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png?raw=true)
 
 
-To make a private channel, simply click the switch marked "make private."
-
-<br />
-<br />
 
 
 ![make private](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_private_channel.png)
+
+<br />
+<br />
 
 4.Click the green button labelled "create" at the bottom right.
 
