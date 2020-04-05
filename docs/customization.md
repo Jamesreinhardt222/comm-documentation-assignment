@@ -28,7 +28,7 @@ Creating a channel is a fairly quick process. You have the option of making a pu
 ![channel dropdown](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel_dropdown.png?raw=true)
 
 2.Select "create a channel."
-![create a channel]https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channel.png?raw=true)
+![create a channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channel.png?raw=true | height = 200)
 
 3.In the resulting pop up, enter the new channel's name and description.
 
