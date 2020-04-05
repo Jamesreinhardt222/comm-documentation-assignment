@@ -37,7 +37,8 @@ You will be dirscted to a new page with information about the app.
 ![zoom add to slack](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom.png?raw=true)
 
 4.Select the account option you want to use.
-In this example we used Zoom, a video-recording and conference platform.  Adding it to slack brings up two options, “Use a company account" or "Use an individual account".
+In this example we used Zoom, a video-recording and conference platform.  Adding it to slack brings up two options, 
+“Use a company account" or "Use an individual account".
 ![zoom add](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/zoom_add.png?raw=true)
 
 5.Click "allow" to let zoom access and perform actions in your workspace.
