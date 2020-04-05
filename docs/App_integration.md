@@ -127,6 +127,9 @@ This will bring you to a new page with information about the app.
 ![remove confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/app_remove_confirmation.png?raw=true)
 
 
+* * *
 
+Great! Now you have successfully integrated Zoom into your Slack workspace.
+Slack provides a lot of great features like integrating external apps to your workspace.
 
 
