@@ -25,7 +25,7 @@ Creating a channel is a fairly quick process. You have the option of making a pu
 
 1. To start, click on plus sign beside the channel dropdown menu.
 
-![channel dropdown](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel_dropdown.png?raw=true)
+![channel dropdown](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel_dropdown.png|width=200?raw=true)
 
 2. Select "create a channel."
 
@@ -33,7 +33,7 @@ Creating a channel is a fairly quick process. You have the option of making a pu
 
 3. In the resulting pop up, enter the new channel's name and description.
 
-![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png?raw=true)
+![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png|width=200?raw=true)
 
 To make a private channel, simply click the switch marked "make private."
 ![make private](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_private_channel.png)
@@ -48,16 +48,16 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 
 1. Go to the channel you’d like to rename and click on the details icon in the upper-right corner.
 
-![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
+![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png|width=200?raw=true)
 
 2. Click on "more" to bring up a list of options.
 ![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png|width=200?raw=true)
 
 3. Click on "rename channel."
-![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/more_options.png?raw=true)
+![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/more_options.png|width=200?raw=true)
 
 4. Enter a new channel name and click on the :rename" button.
-![rename](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/rename.png?raw=true)
+![rename](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/rename.png|width=200?raw=true)
 
 * * *
 
@@ -66,16 +66,16 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 
 1. Go to the channel you’d like to remove and click on the details icon in the upper-right corner.
 
-![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png?raw=true)
+![details icon](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details%20icon.png|width=200?raw=true)
 
 2. Click on "more" to bring up a list of options.
-![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true)
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png|width=200?raw=true)
 
 3. Select "additional options".
-![additional options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options.png?raw=true)
+![additional options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options.png|width=200?raw=true)
 
 4. Select "delete this channel."
-![delete this channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options2.png?raw=true)
+![delete this channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options2.png|width=200?raw=true)
 
 5. Check off the "Yes, permanently delete this channel" box, then click "Delete Channel." 
 ![delete confirmation](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/deletion_confirmation.png?raw=true)
