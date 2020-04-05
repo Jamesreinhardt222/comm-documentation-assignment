@@ -60,7 +60,7 @@ This occurs when there is an issue on slack’s end with their servers.
 Go to [https://my.slack.com/help/requests/new](https://slack.com/intl/en-ca/help/requests/new) to contact slack with your concerns.
 
 ### Web Page Issue
-If the web app is not working correctly, you can do the following.
+If the web app is not working correctly, please try the following:
 
 - Reload Slack
 - `ctrl R` on Windows
