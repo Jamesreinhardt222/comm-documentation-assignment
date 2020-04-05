@@ -3,11 +3,11 @@
 Hello everyone. Due to COVID-19 situation, many students and instructors are experiencing difficulties in communication. This guide is the basic slack guide to help BCIT instructors to communicate better with students. 
 
 This guide includes information about:
--	Making your account
+-	Making your account.
 
--	Setting up your workspace
+-	Setting up your workspace.
 
--	Managing channel
+-	Managing channels.
 
 -	Integrating external apps for extra features.
 
@@ -29,9 +29,9 @@ For this project, Jekyll’s open source theme for documentation with built-in s
 
 ### Learning Outcome of This Project.
 
-Although we were familiar with Slack, there were a lot of features that we have not used it before. As we learned by trying it ourselves, we realized the importance of chronological instructions for creating a guide. Also, rather than only using words, we could explain concepts more effectively using images.
+Although we were familiar with Slack, there were a lot of features that we have not used it before. As we learned by trying it ourselves, we realized the importance of chronological instructions for creating a guide. Additionaly, we realized we could explain concepts more effectively using images, rather than solely using text.
 
-Collaborating remotely was hard, especially when we were not able to meet each other due to Covid-19 situation. We learned importance of communication and how using version control through git is an essential skill for group projects.
+Collaborating remotely was difficult, especially when we were not able to meet each other due to Covid-19 situation. We learned importance of communication and how using version control through git is an essential skill for group projects.
 .
 Most importantly, we learned that every program needs a guide. When a project is done, the people who worked on the project can be very familiar with how everything works and the features inside it. However, even a perfectly designed program might be hard for someone who try it for the first time. If a program has helpful instructions for its features and processes, it will be easier and more popular to use. 
 
