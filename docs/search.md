@@ -5,6 +5,7 @@ nav_order: 8
 ---
 
 # Troubleshooting
+{: .no_toc }
 
 This guide goes over common problems you might experience when using slack and how to solve them.
 {: .no_toc }
@@ -21,13 +22,14 @@ This guide goes over common problems you might experience when using slack and h
 ---
 
 
-### Common Errors:
--Connectivity failure
--Loading trouble
--Server error
--Webpage issue
+## Common Errors:
+{:toc}
+
+
 
 ### Common sources of issues.
+{:toc}
+
 -Antivirus software or security settings
 -Outdated version of the slack desktop app
 -Outdated web browsers, plugins, or extensions
