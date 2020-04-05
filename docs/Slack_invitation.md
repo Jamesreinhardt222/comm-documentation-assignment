@@ -7,9 +7,8 @@ nav_order: 5
 # How to invite other people to your workspace.
 {: .no_toc }
 
-The following page will show you how to invite your students, TAs and others to your workspace.
-If there is any problem inviting people to your workspace, please check out the troubleshooting page.
-
+Slack allows creator of the slack workspace to invite other people to join the workspace.
+This can be done by sharing a link of a workspace that you just created.
 
 {: .fs-5 .fw-300 }
 
@@ -39,8 +38,8 @@ If there is any problem inviting people to your workspace, please check out the 
 
 3.Go to your email account and open the confirmation-email titled “Confirm your email address on Slack.”
 
-  By clicking "Copy" button, you will have your workspace invitation link copied on your computer. You can paste this link 
-  on the BCIT learning hub or pass it to set reps. Note that there will be number of days before the link expires.
+  By clicking "Copy" button, you will have your workspace invitation link copied on your computer. 
+  You can share this link with with people who need to join this workspace.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv3.png?raw=true)
 
