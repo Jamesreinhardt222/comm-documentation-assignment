@@ -90,7 +90,7 @@ When you first access your slack workspace, you’ll automatically be directed t
 This will display options for customizing the greeting that other users see when they visit your new workspace. Slack provides a default greeting, but you can edit it to your preferences by clicking on the arrows on the right-hand side of the white text fields.
 
 2.Head back to the "get started" menu and click on "finish setup."
-![finish setup](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/finish_setup.png?raw=true)
+![finish setup](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/finish_setup.png?raw=true | width = 200)
 
 3.Confirm your workspace's name and URL, then click "next".
 ![confirm workspace URL](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/confirm_workspace_url.png?raw=true)
