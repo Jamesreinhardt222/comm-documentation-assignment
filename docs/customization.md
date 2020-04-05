@@ -108,7 +108,7 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 <br />
 <br />
 
-3.Select "additional options".
+3.Select "additional options".                       
 
 ![additional options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/additional_options.png?raw=true)
 
