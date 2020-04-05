@@ -27,7 +27,7 @@ other wonderful slack features that is introduced on this page.
 
 ![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc1.png?raw=true)
 
-2.Make your account
+2.Make your account.
 
   Type in your email to start creating an account.
 
@@ -39,7 +39,7 @@ other wonderful slack features that is introduced on this page.
   By clicking "Copy" button, you will have your workspace invitation link copied on your computer. You can paste this link 
   on the BCIT learning hub or pass it to set reps. Note that there will be number of days before the link expires.
 
-![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/inv3.png?raw=true)
+![enter your email](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/acc3.png?raw=true)
 
 4.Click on the green "done" button.
 
