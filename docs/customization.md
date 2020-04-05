@@ -17,7 +17,7 @@ This section explains how to create, rename, and delete channels in your workspa
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+1.TOC
 {:toc}
 
 ---
@@ -51,7 +51,7 @@ To make a private channel, simply click the switch marked "make private."
 <br />
 <br />
 
-4.Click the button labelled "create" at the bottom right.
+4. Click the button labelled "create" at the bottom right.
 
 ![channel pop up](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/create_a_channe_pop_up.png?raw=true)
 
@@ -134,5 +134,5 @@ Deleting a channel is a fun way to clean up your workspace while also making you
 
 * * *
 
-This page explained how to make, rename, and delete a channel. You can make channels for different
+This page guided you through how to make, rename, and delete a channel. You can make channels depending on your different
 usages. Now that you have set up your workspace with channels, next step will guide you through how to [invite students.](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/Slack_invitation/)
