@@ -102,11 +102,11 @@ You can choose to skip this step.
 
 ![add people to your slack workspace](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/add_people_to_your_slack_workspace.png?raw=true)
 
+* * *
 
+On this page we learned how to create an account and open your own workspace. This workspace can be utilized using many
+features of Slack. This guide will help you set up your workspace that you just created.
 
-5.Click on the green "finish" button.
-
-
-Congratulations! Your workspace is ready to go.
+Next step is setting up and [managing channels.](https://jamesreinhardt222.github.io/comm-documentation-assignment/docs/customization/)
 
 
