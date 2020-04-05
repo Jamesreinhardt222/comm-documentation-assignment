@@ -70,8 +70,14 @@ Go to https://my.slack.com/help/requests/new to contact slack with your concerns
 ### Web Page Issue
 If the web app is not working correctly, you can do the following.
 -Reload Slack
-   -`ctrl R` on Windows
-    -`&#8984 R` on Mac;
+<br />
+
+ -`ctrl R` on Windows
+ <br />
+
+-`&#8984 R` on Mac;
+<br />
+
 
 ## Collect Net Logs and send them to Slack.
 -Select help from your computer’s menu bar
