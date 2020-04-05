@@ -73,7 +73,7 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 <br />
 
 2.Click on "more" to bring up a list of options.
-![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/details_options.png?raw=true)
+![details options](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel2.png?raw=true)
 
 <br />
 <br />
