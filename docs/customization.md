@@ -78,7 +78,9 @@ If you are a workspace owner or admin, you can rename any of the channels in you
 <br />
 <br />
 
-3.Click on "rename channel."
+3.Click on "rename channel."                                                 
+<br />
+
 ![rename channel](https://github.com/Jamesreinhardt222/comm-documentation-assignment/blob/gh-pages/assets/images/channel3.png?raw=true)
 
 <br />
