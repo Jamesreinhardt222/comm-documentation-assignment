@@ -4,7 +4,7 @@ title: Creating a Slack Account
 nav_order: 2
 ---
 
-# How to create slack account. HAHAHAH IS IT WORKING NOW
+# How to create slack account. Testing
 {: .no_toc }
 
 In this section you will learn how to get invite people to your workspace.
