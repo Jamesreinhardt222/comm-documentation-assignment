@@ -11,6 +11,12 @@ In this section you will learn how to get invite people to your workspace.
 
 {: .fs-6 .fw-300 }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 * * *
 
 ## Getting started
