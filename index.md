@@ -7,6 +7,8 @@ permalink: /
 ---
 
 # Slack Guide for BCIT Instructors
+{: .no_toc }
+
 {: .fs-9 }
 
 Learn all the basics of slack to improve your communication with students.
@@ -24,6 +26,8 @@ Learn all the basics of slack to improve your communication with students.
 
 
 ## Why Slack?
+{: .no_toc }
+
 
 Slack is the one of the top online platform for professional correspondence and has distinct advantages over email communication.
 
